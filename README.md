@@ -1,3 +1,1 @@
-# Training
-
-Planung, Logs, Templates.
+# Workout
