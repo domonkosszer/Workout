@@ -1,0 +1,68 @@
+timezone = "Europe/Zurich"
+week_start = "2026-02-16"  # Monday
+
+[[events]]
+title = "Lower Body Strength"
+day = "MON"
+start = "08:00"
+duration_min = 90
+
+[[events]]
+title = "Easy Run Z2"
+day = "MON"
+start = "18:00"
+duration_min = 55
+
+[[events]]
+title = "Bike Sweet Spot"
+day = "TUE"
+start = "07:30"
+duration_min = 70
+
+[[events]]
+title = "Waterpolo Training"
+day = "TUE"
+start = "20:00"
+duration_min = 120
+
+[[events]]
+title = "Recovery Swim / Mobility"
+day = "WED"
+start = "07:45"
+duration_min = 35
+
+[[events]]
+title = "Waterpolo Training"
+day = "WED"
+start = "20:00"
+duration_min = 120
+
+[[events]]
+title = "Run Intervals"
+day = "THU"
+start = "07:30"
+duration_min = 70
+
+[[events]]
+title = "Upper Body Strength"
+day = "THU"
+start = "18:00"
+duration_min = 60
+
+[[events]]
+title = "Bike Z2"
+day = "FRI"
+start = "07:30"
+duration_min = 70
+
+[[events]]
+title = "Match OR Long Run"
+day = "SAT"
+start = "11:00"
+duration_min = 90
+
+[[events]]
+title = "Long Ride OR Recovery"
+day = "SUN"
+start = "10:00"
+duration_min = 150
